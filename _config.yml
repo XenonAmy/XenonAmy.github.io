@@ -6,10 +6,10 @@ description: >
   Providing Neck, Back, Spine and Joint Pain Management.
   # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "XenonAmy.github.io" # the base hostname & protocol for your site
+url: "https://XenonAmy.github.io" # the base hostname & protocol for your site
 
-twitter_username:urbanchiros
-github_username:XenonAmy
+twitter_username :urbanchiros
+github_username: XenonAmy
 
 # Build settings
 markdown: kramdown
