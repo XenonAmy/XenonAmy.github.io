@@ -1,12 +1,15 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Urban Chiropractic
+email: info@urbanchiros.com
+description: > 
+  Experienced Chiropractors in Jersey City.
+  Providing Neck, Back, Spine and Joint Pain Management.
+  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "XenonAmy.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username:urbanchiros
+github_username:XenonAmy
 
 # Build settings
 markdown: kramdown
